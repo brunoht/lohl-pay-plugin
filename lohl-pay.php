@@ -84,8 +84,6 @@ function clearuser($data) {
 //End Allow Woocommerce Order Pay Without LogIn
 
 
-// allow non-logged user to see thank you page without asking for authentication
-
 // Include your custom class file.
 
 
